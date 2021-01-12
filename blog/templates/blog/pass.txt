@@ -1,0 +1,6 @@
+admin user = Nik11
+nik11@gmail.com
+pass = qwerty123
+
+user = Testuser
+pass = testing1234
